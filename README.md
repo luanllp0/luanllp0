@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Luan!
 
-Sou um estudante de Ciência da Computação na Universidade Federal da Fronteira Sul e também, um aspirante desenvolvedor!
+Sou estudante de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) - Campus Chapecó e também um aspirante desenvolvedor!
 Gosto muito de programação, jogos, música e qualquer coisa que envolva tecnologia.
 
 ---
