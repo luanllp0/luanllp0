@@ -1,10 +1,11 @@
 # 👋 Olá, eu sou Luan!
 
-Sou um aspirante desenvolvedor apaixonado por tecnologia, programação e desafios.
+Sou um estudante de Ciência da Computação na Universidade Federal da Fronteira Sul e também, um aspirante desenvolvedor!
+Gosto muito de programação, jogos, música e qualquer coisa que envolva tecnologia.
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Ferramentas que uso
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -17,12 +18,6 @@ Sou um aspirante desenvolvedor apaixonado por tecnologia, programação e desafi
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luanllp0&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanllp0&layout=compact&theme=dracula)
-
----
-
-## 🏆 Contribuições
-
-![Snake animation](https://github.com/luanllp0/luanllp0/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
