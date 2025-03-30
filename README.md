@@ -9,7 +9,7 @@ Gosto muito de programação, jogos, música e qualquer coisa que envolva tecnol
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="90">
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
